@@ -1,0 +1,12 @@
+{
+    "customers": {
+        "input": 10000,
+        "accepted": 10000,
+        "rejected": 0
+    },
+    "orders": {
+        "input": 100000,
+        "accepted": 100000,
+        "rejected": 0
+    }
+}

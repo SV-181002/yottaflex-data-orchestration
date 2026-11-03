@@ -1,0 +1,10 @@
+{
+    "status": "SUCCESS",
+    "database": "data\\warehouse\\pipeline.db",
+    "customers_processed": 10000,
+    "orders_processed": 100000,
+    "customers_in_database": 10000,
+    "orders_in_database": 100000,
+    "database_total_amount": 277975212.65,
+    "published_at": "2026-11-03T08:49:07.105885+00:00"
+}

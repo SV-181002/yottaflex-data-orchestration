@@ -1,0 +1,30 @@
+{
+    "run_id": "adb756fc-d953-4858-a836-722e17a8b07a",
+    "status": "SUCCESS",
+    "started_at": "2026-11-02T19:14:22.341999+00:00",
+    "finished_at": "2026-11-02T19:14:30.907795+00:00",
+    "duration_seconds": 8.56,
+    "tasks": [
+        {
+            "task": "validation",
+            "status": "SUCCESS",
+            "attempts": 1,
+            "duration_seconds": 2.58,
+            "error": null
+        },
+        {
+            "task": "transformation",
+            "status": "SUCCESS",
+            "attempts": 1,
+            "duration_seconds": 2.16,
+            "error": null
+        },
+        {
+            "task": "publishing",
+            "status": "SUCCESS",
+            "attempts": 1,
+            "duration_seconds": 3.83,
+            "error": null
+        }
+    ]
+}

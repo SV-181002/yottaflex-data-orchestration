@@ -1,0 +1,16 @@
+{
+    "customers": {
+        "input": 10000,
+        "output": 10000
+    },
+    "orders": {
+        "input": 100000,
+        "output": 100000
+    },
+    "total_order_amount": 277975212.65,
+    "output_files": [
+        "data\\processed\\transformed_customers.csv",
+        "data\\processed\\transformed_orders.csv"
+    ],
+    "status": "SUCCESS"
+}

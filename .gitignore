@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+tests/temp_reports/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
