@@ -214,7 +214,7 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
+git clone https://github.com/SV-181002/yottaflex-data-orchestration.git
 cd yottaflex_data_orchestration
 ```
 
